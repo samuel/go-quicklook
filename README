@@ -1,0 +1,8 @@
+QuickLook for Go
+================
+
+This package provides a framework for building macOS QuickLook plugins in Go.
+
+At the moment it's a test implementation that displays old graphics file formats
+and is not generic, but the plan is to build tooling to make it more flexible to
+be used without copying and modifying files.
